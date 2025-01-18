@@ -6,7 +6,6 @@ node_modules/
 ntuser.dat* 
 *.swp 
 *.bak 
-*.swp 
 *.swo 
 *.swn 
 AppData/ 
