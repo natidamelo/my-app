@@ -1,0 +1,13 @@
+node_modules/ 
+.vscode/ 
+.cache/ 
+*.log 
+*.tmp 
+ntuser.dat* 
+*.swp 
+*.bak 
+*.swp 
+*.swo 
+*.swn 
+AppData/ 
+OneDrive/ 
