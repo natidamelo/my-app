@@ -1,15 +1,12 @@
 {
-  "name": "my-app",
+  "name": "my-render-app",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A simple Node.js app deployed on Render",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.17.1"
   }
 }
