@@ -1,12 +1,13 @@
-node_modules/ 
-.vscode/ 
-.cache/ 
-*.log 
-*.tmp 
-ntuser.dat* 
-*.swp 
-*.bak 
-*.swo 
-*.swn 
-AppData/ 
-OneDrive/ 
+cd C:\Users\Windows 10 Pro\my-app
+echo node_modules/ > .gitignore
+echo .vscode/ >> .gitignore
+echo .cache/ >> .gitignore
+echo *.log >> .gitignore
+echo *.tmp >> .gitignore
+echo ntuser.dat* >> .gitignore
+echo *.swp >> .gitignore
+echo *.bak >> .gitignore
+echo *.swo >> .gitignore
+echo *.swn >> .gitignore
+echo AppData/ >> .gitignore
+echo OneDrive/ >> .gitignore
